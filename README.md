@@ -1,6 +1,7 @@
 # Сегментация новостных видеовыпусков
 Чтобы просмотреть .ipynb файл в Google Colab, необходимо изменить его url адрес, добавив `tocolab` после `github`. 
 Например: https://githubtocolab.com/tony-pitchblack/news-segmentation/blob/main/Insightface_demo.ipynb
+
 Ссылки на статьи и другие материалы, полезные для проекта собраны в [Google Docs](https://docs.google.com/document/d/16adhUd1MXhHQTqz3p6X_Yth9nqWHLLruIYvZpRau1kc/edit?usp=sharing)
 
 
