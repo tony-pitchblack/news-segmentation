@@ -6,7 +6,7 @@
 ### 1. Обучение модели сегментирования текста 
 *НОУТБУК:* [BiLSTM_topic_segmentation_train_eval.ipynb](https://githubtocolab.com/tony-pitchblack/news-segmentation/blob/main/BiLSTM_topic_segmentation_train_eval.ipynb)
 
-Обучение модели с использованием исправленного и дополненный кода авторов статьи [NSE-TopicSegmentation](https://github.com/tony-pitchblack/NSE-TopicSegmentation)
+Обучение модели с использованием исправленного и дополненного кода авторов статьи [NSE-TopicSegmentation](https://github.com/tony-pitchblack/NSE-TopicSegmentation)
 [<img src="https://github.com/tony-pitchblack/news-segmentation/blob/main/bert_bilstm_in_distribution_metrics.png" alt="In-distribution metrics" width="400"/>]()
 
 ### 2. Пайплайн Speech recognition + Text segmentation
